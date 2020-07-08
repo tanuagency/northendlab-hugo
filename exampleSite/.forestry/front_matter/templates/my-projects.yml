@@ -3,15 +3,15 @@ label: My Projects
 hide_body: true
 fields:
 - type: field_group_list
-  name: tools
-  label: tools
+  name: my-projects
+  label: My Projects
   fields:
   - type: text
     name: title
     label: title
   - type: field_group_list
-    name: tool
-    label: tool
+    name: project
+    label: Project
     fields:
     - type: text
       name: name
